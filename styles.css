@@ -1,0 +1,15 @@
+.container{
+    background-color: lightblue;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+
+}
+.item{
+    border: 1px solid white;
+   
+}
+h1{
+    text-align: center;
+    background-color: aquamarine;
+}
